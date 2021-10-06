@@ -1,0 +1,9 @@
+<resources>
+<!-- Berfungsi untuk menampung list nama item negara yang akan di tampilkan-->
+    <string name="app_name">SpinDanAutoC</string>
+<string-array name="negara">
+    <item>Indonesia</item>
+    <item>Malaysia</item>
+    <item>Singapura</item>
+</string-array>
+</resources>
