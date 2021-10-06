@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ListVi</string>
+    <!--String ini di gunakan untuk menginput nama menu-->
+    <string-array name="Namamenu">
+        <item>Milk Tea = Rp 10.000</item>
+        <item>Jasmin Milk Tea = Rp 10.000</item>
+        <item>Thai Milk Tea = Rp 10.000</item>
+        <item>Matcha Milk Tea = Rp 10.000</item>
+        <item>Chocolate Milk Tea = Rp 10.000</item>
+        <item>Manggo Milk Tea = Rp 10.000</item>
+        <item>Strawberry Milk Tea = Rp 10.000</item>
+        <item>Taro Milk = Rp 12.000</item>
+        <item>Matcha Milk = Rp 12.000</item>
+        <item>Chocolate Milk = Rp 12.000</item>
+        <item>Coffe Milk = Rp 13.000</item>
+        <item>Love Me = Rp 14.000</item>
+        <item>Brown Sugar Milk = Rp 12.000</item>
+        <item>Manggo Tea = Rp 11.000</item>
+        <item>Milk Tea = Rp 10.000</item>
+        <item>Jasmin Milk Tea = Rp 10.000</item>
+        <item>Thai Milk Tea = Rp 10.000</item>
+        <item>Matcha Milk Tea = Rp 10.000</item>
+        <item>Chocolate Milk Tea = Rp 10.000</item>
+        <item>Manggo Milk Tea = Rp 10.000</item>
+        <item>Strawberry Milk Tea = Rp 10.000</item>
+        <item>Taro Milk = Rp 12.000</item>
+        <item>Matcha Milk = Rp 12.000</item>
+        <item>Chocolate Milk = Rp 12.000</item>
+        <item>Coffe Milk = Rp 13.000</item>
+        <item>Love Me = Rp 14.000</item>
+        <item>Brown Sugar Milk = Rp 12.000</item>
+        <item>Manggo Tea = Rp 11.000</item>
+    </string-array>
+
+</resources>
