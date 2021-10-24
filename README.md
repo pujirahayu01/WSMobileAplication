@@ -17,3 +17,13 @@ Nama : Puji Rahayu, Nim : E41200378 / A
 ![tampilan1](https://user-images.githubusercontent.com/74763414/137083396-c167a797-d34b-40c7-8e6a-95bd9f9db200.PNG)
 ![tampilan2](https://user-images.githubusercontent.com/74763414/137083438-1d53cd30-650c-4ce6-a6f4-cac0d43b2c5d.PNG)
 ![tampilan3](https://user-images.githubusercontent.com/74763414/137083418-4d910f38-faa0-4e29-a5cf-193dda8d7590.PNG)
+
+(Minggu 6 Intent)
+1.Intent Explicit
+
+![WhatsApp Image 2021-10-14 at 18 43 58](https://user-images.githubusercontent.com/74763414/137329625-f77ba328-ec30-4cd2-bba5-0d35396cc99f.jpeg)
+
+2. Intent Implicit dan hasil run ketika di hubungkan dengan instagram
+
+![WhatsApp Image 2021-10-14 at 18 43 58 (1)](https://user-images.githubusercontent.com/74763414/137329658-461cebb3-b48a-4eb7-9256-1dfe81d6d528.jpeg)
+![WhatsApp Image 2021-10-14 at 18 43 58 (2)](https://user-images.githubusercontent.com/74763414/137329677-792d9c8e-3c76-44cd-98df-fe7ddc35718e.jpeg)
