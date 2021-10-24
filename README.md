@@ -27,3 +27,7 @@ Nama : Puji Rahayu, Nim : E41200378 / A
 
 ![WhatsApp Image 2021-10-14 at 18 43 58 (1)](https://user-images.githubusercontent.com/74763414/137329658-461cebb3-b48a-4eb7-9256-1dfe81d6d528.jpeg)
 ![WhatsApp Image 2021-10-14 at 18 43 58 (2)](https://user-images.githubusercontent.com/74763414/137329677-792d9c8e-3c76-44cd-98df-fe7ddc35718e.jpeg)
+
+(Tugas Minggu 7 Manajemen file dan SQLite)
+![PicsArt_10-24-09 55 53](https://user-images.githubusercontent.com/74763414/138578893-962c4958-8f98-46a7-a7d9-3196500a5cf3.jpg)
+![PicsArt_10-24-09 51 41](https://user-images.githubusercontent.com/74763414/138578898-39af41a1-1dbc-43cf-8f18-17133b3103d1.jpg)
